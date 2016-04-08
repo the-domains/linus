@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.959472
+  lightness: 0.45702
+  rhythmicContrast: 0.105097
+  saturation: 0.498353
+cta: {}
+layout_spectrum: 0.308558
+name: linus
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.11981128266458174
