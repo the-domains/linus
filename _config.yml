@@ -8,7 +8,7 @@ color:
     - '#F4F482'
   brandStrength: 0
   lightness: 0.45702
-  rhythmicContrast: 0.105097
+  rhythmicContrast: 0
   saturation: 0.498353
 cta: {}
 layout_spectrum: 0.308558
