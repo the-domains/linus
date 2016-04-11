@@ -6,13 +6,13 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.959472
+  brandStrength: 0
   lightness: 0.45702
   rhythmicContrast: 0.105097
   saturation: 0.498353
 cta: {}
 layout_spectrum: 0.308558
-name: linus
+name: linus playground
 opengraph: {}
 purpose: {}
 typography_spectrum: 0.572072
