@@ -1,14 +1,16 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: link1
-datePublished: '2016-04-26T12:45:38.568Z'
-dateModified: '2016-04-26T12:45:37.907Z'
+datePublished: '2016-04-26T12:49:52.418Z'
+dateModified: '2016-04-26T12:49:13.599Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-navigation.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-navigation.md
-published: true
 url: navigation/index.html
-_type: WebPage
+_type: Article
 
 ---
 [link1][0]
