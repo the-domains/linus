@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: This is a test.
-datePublished: '2016-04-26T12:49:48.363Z'
-dateModified: '2016-04-26T12:41:22.163Z'
+datePublished: '2016-04-26T12:53:47.268Z'
+dateModified: '2016-04-26T12:52:13.524Z'
 title: Artificial intelligence
 author: []
 sourcePath: _posts/2016-04-26-artificial-intelligence.md
