@@ -1,18 +1,31 @@
-analytics: {}
+name: linus playground
+favicon: null
+layout_spectrum: 0.308558
+typography_spectrum: 0.572072
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0
-  lightness: 0.45702
+    - '#ffffff'
+    - '#71695e'
+    - '#8d9693'
+    - '#b4bdbc'
+    - '#29200f'
+  brandStrength: 0.125
+  lightness: 0.125
+  saturation: 0.5
   rhythmicContrast: 0
-  saturation: 0.498353
-cta: {}
-layout_spectrum: 0.308558
-name: linus playground
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.572072
+purpose:
+  - name: null
+    item: null
+    url: null
