@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: cool cars.
-datePublished: '2016-04-26T12:59:54.504Z'
-dateModified: '2016-04-26T12:59:41.367Z'
+datePublished: '2016-04-26T13:06:58.415Z'
+dateModified: '2016-04-26T13:06:05.807Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-navigation.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: cars/index.html
-_type: Article
+_type: WebPage
 
 ---
 cool cars.
