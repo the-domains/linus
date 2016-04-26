@@ -1,14 +1,16 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: This is a test.
-datePublished: '2016-04-26T12:22:11.498Z'
-dateModified: '2016-04-26T12:20:27.921Z'
+datePublished: '2016-04-26T12:41:13.569Z'
+dateModified: '2016-04-26T12:41:09.891Z'
 title: Artificial intelligence
 author: []
+sourcePath: _posts/2016-04-26-artificial-intelligence.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-artificial-intelligence.md
-published: true
 url: artificial-intelligence/index.html
 _context: 'http://schema.org'
 _type: Article
