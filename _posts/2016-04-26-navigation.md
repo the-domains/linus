@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'cool cars. '
-datePublished: '2016-04-26T12:56:32.565Z'
-dateModified: '2016-04-26T12:56:27.594Z'
+description: cool cars.
+datePublished: '2016-04-26T12:57:26.920Z'
+dateModified: '2016-04-26T12:56:40.261Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-navigation.md
