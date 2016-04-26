@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
-description: link1
-datePublished: '2016-04-26T12:53:54.271Z'
-dateModified: '2016-04-26T12:53:09.195Z'
+description: 'cool cars. '
+datePublished: '2016-04-26T12:56:32.565Z'
+dateModified: '2016-04-26T12:56:27.594Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-navigation.md
@@ -19,12 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: cars/index.html
+_type: WebPage
 
 ---
-[link1][0]
-
-[link2][1]
-
-[0]: www.feber.se
-[1]: www.tjock.se
+cool cars.
