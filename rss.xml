@@ -4,8 +4,15 @@
         <description><![CDATA[linus playground]]></description>
         <link>https://thegrid.ai/linus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 12:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 12:50:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[where do the links go?]]></title>
+            <description><![CDATA[<p>link1</p>]]></description>
+            <link>https://thegrid.ai/linus/navigation/index.html</link>
+            <guid isPermaLink="false">c30a85c2-6ba9-4631-95bf-0ad2276f266b</guid>
+            <pubDate>Tue, 26 Apr 2016 12:49:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Artificial intelligence]]></title>
             <description><![CDATA[<article><h1>Artificial intelligence</h1><p>This is a test.</p></article>]]></description>
