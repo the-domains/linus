@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[linus playground]]></title>
         <description><![CDATA[linus playground]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/linus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 12:41:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 12:50:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/linus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Artificial intelligence]]></title>
             <description><![CDATA[<article><h1>Artificial intelligence</h1><p>This is a test.</p></article>]]></description>
-            <link>undefinedartificial-intelligence/index.html</link>
+            <link>https://thegrid.ai/linus/artificial-intelligence/index.html</link>
             <guid isPermaLink="false">4900c43a-7d4d-43d9-b4ef-362c2adf5a10</guid>
-            <pubDate>Tue, 26 Apr 2016 12:41:13 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 12:49:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
