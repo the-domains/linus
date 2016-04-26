@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is a test.
-datePublished: '2016-04-26T13:05:44.962Z'
-dateModified: '2016-04-26T13:00:12.140Z'
+datePublished: '2016-04-26T13:07:09.209Z'
+dateModified: '2016-04-26T13:05:53.157Z'
 title: Artificial intelligence
 author: []
 sourcePath: _posts/2016-04-26-artificial-intelligence.md
